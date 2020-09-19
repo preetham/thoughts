@@ -1,0 +1,35 @@
+baseURL = "https://tas.preetham.me"
+languageCode = "en-us"
+title = "Thoughts and Stories"
+theme = "hugo-theme-codex"
+copyright = "© Preetham {year}"
+
+[params]
+  github = "https://github.com/preetham"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# navigation
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
+
+[[menu.main]]
+  identifier = "thoughts"
+  name = "thoughts"
+  title = "thoughts"
+  url = "/thoughts"
+
+[[menu.main]]
+  identifier = "stories"
+  name = "stories"
+  title = "stories"
+  url = "/stories"
