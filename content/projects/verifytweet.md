@@ -4,7 +4,7 @@ date: 2019-06-07
 slug: "verify-tweet"
 description: "Verify if a tweet is made by the said author using ML"
 keywords: ["projects", "blog", "verify", "twitter", "verifytweet"]
-draft: true
+draft: false
 tags: ["projects"]
 math: false
 toc: false
