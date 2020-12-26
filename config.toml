@@ -6,6 +6,9 @@ copyright = "© Preetham {year}"
 
 [params]
   github = "https://github.com/preetham"
+  resume = "https://github.com/preetham/resume/raw/master/kamidi_preetham_resume.pdf"
+  email = "mailto:code@preetham.me"
+  iconOrder = ["Github","Resume","Email"]
 
 [markup]
   [markup.highlight]
