@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Preetham"
-subheading: "I post some of my thoughts and stories here."
+subheading: "I like solving problems."
 handle: "preetham"
 ---

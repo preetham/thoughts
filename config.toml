@@ -1,6 +1,6 @@
 baseURL = "https://tas.preetham.me"
 languageCode = "en-us"
-title = "Thoughts and Stories"
+title = "Preetham"
 theme = "hugo-theme-codex"
 copyright = "© Preetham {year}"
 
@@ -23,13 +23,13 @@ copyright = "© Preetham {year}"
   url = "/"
 
 [[menu.main]]
-  identifier = "thoughts"
-  name = "thoughts"
-  title = "thoughts"
-  url = "/thoughts"
+  identifier = "projects"
+  name = "projects"
+  title = "projects"
+  url = "/projects"
 
 [[menu.main]]
-  identifier = "stories"
-  name = "stories"
-  title = "stories"
-  url = "/stories"
+  identifier = "blog"
+  name = "blog"
+  title = "blog"
+  url = "/blog"
