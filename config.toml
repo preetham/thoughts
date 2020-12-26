@@ -1,4 +1,4 @@
-baseURL = "https://tas.preetham.me"
+baseURL = "https://code.preetham.me"
 languageCode = "en-us"
 title = "Preetham"
 theme = "hugo-theme-codex"
