@@ -5,7 +5,7 @@ slug: "democracy-is-flawed"
 description: "Democracy as a concept is flawed, here's why"
 keywords: ["thoughts", "blog", "democracy", "politics"]
 draft: false
-tags: ["democracy"]
+tags: ["thoughts"]
 math: false
 toc: false
 ---

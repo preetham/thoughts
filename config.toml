@@ -36,3 +36,9 @@ copyright = "© Preetham {year}"
   name = "blog"
   title = "blog"
   url = "/blog"
+
+[[menu.blog]]
+  identifier = "roadtocode"
+  name = "roadtocode"
+  title = "Road to Code"
+  url = "roadtocode"

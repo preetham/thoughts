@@ -5,7 +5,7 @@ slug: "verify-tweet"
 description: "Verify if a tweet is made by the said author using ML"
 keywords: ["projects", "blog", "verify", "twitter", "verifytweet"]
 draft: false
-tags: ["projects"]
+tags: ["projects", "comsci"]
 math: false
 toc: false
 ---
